@@ -1,6 +1,6 @@
 {
-  "name": "@professor-dollar/cli-calculator",
-  "version": "1.0.0",
+  "name": "@dave-malik/cli-calculator",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
