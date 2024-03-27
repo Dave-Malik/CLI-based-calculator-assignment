@@ -4,12 +4,12 @@ const anwser = await inquirer.prompt([
     {
         type: "number",
         name: "numberOne",
-        message: "kidnly enter your first nuumber",
+        message: "kindly enter your first number",
     },
     {
         type: "number",
         name: "numberTwo",
-        message: "kidnly enter your second nuumber",
+        message: "kindly enter your second number",
     },
     {
         type: "list",
